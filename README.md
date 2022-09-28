@@ -1,2 +1,2 @@
 # Model-Predictive-Control-MPC
-This repository contains all the homework codes and projects from Dr. Wayne Bequette Model Predictive Control MPC class in RPI
+This repository contains my work on using state estimation and MPC for control applications
